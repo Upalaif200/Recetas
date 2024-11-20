@@ -64,7 +64,7 @@ body::-webkit-scrollbar {
     position: absolute;
     width: 98.8vw;
     height: 97.848vh;
-    background: url(/img/textura-portada-libro-viejo-sucio_231311-24822.jpg);
+    background: url(img/textura-portada-libro-viejo-sucio_231311-24822.jpg);
     align-items: center;
     justify-items: end;
     z-index: 5;
@@ -165,7 +165,7 @@ body::-webkit-scrollbar {
     flex-direction: row;
     gap: 2.5%;
     height: 100%;
-    background-image: url(/img/cement-overlay-black-and-white-texture-free-vector-removebg-preview.svg);
+    background-image: url(img/cement-overlay-black-and-white-texture-free-vector-removebg-preview.svg);
 }
 
 header{
@@ -411,7 +411,7 @@ main{
     width: 150%;
     border: none;
     background-color: transparent;
-    background-image: url(/img/dibujo.svg);
+    background-image: url(img/dibujo.svg);
     background-position: 50% 50%;
     background-origin: padding-box;
     background-size: cover;
