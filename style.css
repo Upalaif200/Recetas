@@ -504,7 +504,7 @@ footer{
         height: 45.2%;
     }
 }
-@media (max-device-width: 800px) and (max-device-height: 1000px){
+@media (max-device-width: 800px) and (max-device-height: 1100px){
     #portada{
         height: 80%
     }
