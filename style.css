@@ -1,4 +1,4 @@
-   *{
+*{
     font-family: "Bona Nova", serif;
     font-weight: 400;
     font-style: normal;
@@ -165,7 +165,7 @@ body::-webkit-scrollbar {
     flex-direction: row;
     gap: 2.5%;
     height: 100%;
-    background-image: url(img/cement-overlay-black-and-white-texture-free-vector-removebg-preview.svg);
+    background-image: url(img/luxa.org-opacity-changed-cement-overlay-black-and-white-texture-free-vector-removebg-preview.png);
 }
 
 header{
@@ -504,7 +504,7 @@ footer{
         height: 45.2%;
     }
 }
-@media (max-device-width: 800px) and (max-device-height: 1100px){
+@media (max-device-width: 800px) and (max-device-height: 1000px){
     #portada{
         height: 80%
     }
