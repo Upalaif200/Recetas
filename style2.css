@@ -29,7 +29,7 @@ body{
     display: grid;
     width: 98.8vw;
     height: 97.848vh;
-    background-image: url(/img/grafito-gris.jpg);
+    background-image: url(img/grafito-gris.jpg);
     align-items: center;
     justify-content: center;
 }
@@ -49,7 +49,7 @@ body::-webkit-scrollbar {
     flex-direction: row;
     gap: 2.5%;
     height: 100%;
-    background-image: url(/img/cement-overlay-black-and-white-texture-free-vector-removebg-preview.svg);
+    background-image: url(img/cement-overlay-black-and-white-texture-free-vector-removebg-preview.svg);
 }
 
 header{
