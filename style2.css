@@ -55,7 +55,7 @@ header{
     position: sticky;
     top: 0;
     width: 50%;
-    height: 95.9%;
+    height: 100%;
     background: #a65638;
     padding: 1%;
     justify-items: center;
@@ -64,7 +64,7 @@ header{
 }
 
 #hbox{
-    height: 100%;
+    height: 50%;
 }
 
 .minideco{
@@ -212,6 +212,9 @@ header{
     display: flex;
     flex-direction: column; 
     position: relative;
+    height: 100%;
+    width: 100%;
+    gap: 25%;
     padding: 2.5% 2.5% 0;
     align-items: flex-start;
     z-index: 5;
@@ -269,8 +272,8 @@ footer{
 }
 #img1 {
     position: absolute;
-    left: -10%;
-    width: 117%;
+    left: 2%;
+    width: 98%;
     height: 36.2%;
     z-index: 1;
 }
@@ -321,7 +324,7 @@ footer{
         font-weight: 400;
     }
     header{
-        width: 50%;
+        width: 20%;
     }
     .hbnavs{
         font-size: large;
