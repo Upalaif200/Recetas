@@ -345,7 +345,7 @@ footer{
         height: 80%
     }
     #hoja{
-        height:87%;
+        height:100%;
     }
     #himg img{
         width: 30%;
@@ -354,7 +354,7 @@ footer{
         flex-direction: column;
     }
     header{
-        width: 100%;
+        width: 98%;
         height: 7.5%;
     }
     #hbox{
@@ -387,6 +387,9 @@ footer{
     .botones{
         font-size: x-large !important;
     }
+    #subody{
+        gap: 0;
+    }
     #mbox {
         flex-direction: column;
     }
@@ -395,13 +398,13 @@ footer{
         width: 100%;
     }
     #img1 {
-        position: relative;
-        height: 100.2%;
+        position: absolute;
+        height: 10.2%;
         left: 0;
     }
     #img2 {
         width: 75%;
-        height: 10%;
+        height: 34%;
     }
     #ftext {
 
