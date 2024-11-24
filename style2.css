@@ -305,7 +305,7 @@ footer{
         font-weight: 600;
     }
     header{
-        width: 30%;
+        width: 20%;
     }
     .hbnavs{
         font-size: x-large;
@@ -314,10 +314,13 @@ footer{
         font-size: x-large !important;
     }
     #ftext{
-        height: 5%;
+        height: 12%;
     }
     #img1{
         height: 47.2%;
+    }
+    #img2{
+        height: 7.2%;
     }
 }
 @media (max-device-width: 1400px){
@@ -334,7 +337,7 @@ footer{
         font-size: large !important;
     }
     #ftext{
-        height: 15%;
+        height: 18%;
     }
     #img1{
         height: 24.2%;
@@ -407,7 +410,6 @@ footer{
         height: 34%;
     }
     #ftext {
-
         width: 72%;
         height: 90% ;
     }
